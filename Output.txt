@@ -1,0 +1,662 @@
+/**
+	
+*_*_*_*_*_*_* Welcome to LinkedList App *_*_*_*_*_*_*_*_*_*
+
+*_*_*_*_* MENU *_*_*_*_*
+
+Enter 1 To Insert
+
+Enter 2 To Delete
+
+Enter 3 To Search
+
+Enter 4 To Display
+
+Enter 5 To Exit
+
+Enter your choice : 1
+*_*_*_*_* INSERT MENU *_*_*_*_*_*_*_*_*_*_*_
+
+Press 1 to insert at Head
+
+Press 2 to insert at Tail
+
+Press 3 to insert from Specific postion
+
+Press 4 to Exit
+
+
+Enter the insert choice :
+1
+Enter the data : 500
+Inserted !!!
+*_*_*_*_* MENU *_*_*_*_*
+
+Enter 1 To Insert
+
+Enter 2 To Delete
+
+Enter 3 To Search
+
+Enter 4 To Display
+
+Enter 5 To Exit
+
+Enter your choice : 1
+*_*_*_*_* INSERT MENU *_*_*_*_*_*_*_*_*_*_*_
+
+Press 1 to insert at Head
+
+Press 2 to insert at Tail
+
+Press 3 to insert from Specific postion
+
+Press 4 to Exit
+
+
+Enter the insert choice :
+1
+Enter the data : 400
+Inserted !!!
+*_*_*_*_* MENU *_*_*_*_*
+
+Enter 1 To Insert
+
+Enter 2 To Delete
+
+Enter 3 To Search
+
+Enter 4 To Display
+
+Enter 5 To Exit
+
+Enter your choice : 1
+*_*_*_*_* INSERT MENU *_*_*_*_*_*_*_*_*_*_*_
+
+Press 1 to insert at Head
+
+Press 2 to insert at Tail
+
+Press 3 to insert from Specific postion
+
+Press 4 to Exit
+
+
+Enter the insert choice :
+1
+Enter the data : 300
+Inserted !!!
+*_*_*_*_* MENU *_*_*_*_*
+
+Enter 1 To Insert
+
+Enter 2 To Delete
+
+Enter 3 To Search
+
+Enter 4 To Display
+
+Enter 5 To Exit
+
+Enter your choice : 1
+*_*_*_*_* INSERT MENU *_*_*_*_*_*_*_*_*_*_*_
+
+Press 1 to insert at Head
+
+Press 2 to insert at Tail
+
+Press 3 to insert from Specific postion
+
+Press 4 to Exit
+
+
+Enter the insert choice :
+1
+Enter the data : 200
+Inserted !!!
+*_*_*_*_* MENU *_*_*_*_*
+
+Enter 1 To Insert
+
+Enter 2 To Delete
+
+Enter 3 To Search
+
+Enter 4 To Display
+
+Enter 5 To Exit
+
+Enter your choice : 1
+*_*_*_*_* INSERT MENU *_*_*_*_*_*_*_*_*_*_*_
+
+Press 1 to insert at Head
+
+Press 2 to insert at Tail
+
+Press 3 to insert from Specific postion
+
+Press 4 to Exit
+
+
+Enter the insert choice :
+1
+Enter the data : 100
+Inserted !!!
+*_*_*_*_* MENU *_*_*_*_*
+
+Enter 1 To Insert
+
+Enter 2 To Delete
+
+Enter 3 To Search
+
+Enter 4 To Display
+
+Enter 5 To Exit
+
+Enter your choice : 1
+*_*_*_*_* INSERT MENU *_*_*_*_*_*_*_*_*_*_*_
+
+Press 1 to insert at Head
+
+Press 2 to insert at Tail
+
+Press 3 to insert from Specific postion
+
+Press 4 to Exit
+
+
+Enter the insert choice :
+2
+Enter the data : 600
+Inserted !!!
+*_*_*_*_* MENU *_*_*_*_*
+
+Enter 1 To Insert
+
+Enter 2 To Delete
+
+Enter 3 To Search
+
+Enter 4 To Display
+
+Enter 5 To Exit
+
+Enter your choice : 4
+
+100=>200=>300=>400=>500=>600
+*_*_*_*_* MENU *_*_*_*_*
+
+Enter 1 To Insert
+
+Enter 2 To Delete
+
+Enter 3 To Search
+
+Enter 4 To Display
+
+Enter 5 To Exit
+
+Enter your choice : 1
+*_*_*_*_* INSERT MENU *_*_*_*_*_*_*_*_*_*_*_
+
+Press 1 to insert at Head
+
+Press 2 to insert at Tail
+
+Press 3 to insert from Specific postion
+
+Press 4 to Exit
+
+
+Enter the insert choice :
+2
+Enter the data : 800
+Inserted !!!
+*_*_*_*_* MENU *_*_*_*_*
+
+Enter 1 To Insert
+
+Enter 2 To Delete
+
+Enter 3 To Search
+
+Enter 4 To Display
+
+Enter 5 To Exit
+
+Enter your choice : 4
+
+100=>200=>300=>400=>500=>600=>800
+*_*_*_*_* MENU *_*_*_*_*
+
+Enter 1 To Insert
+
+Enter 2 To Delete
+
+Enter 3 To Search
+
+Enter 4 To Display
+
+Enter 5 To Exit
+
+Enter your choice : 1
+*_*_*_*_* INSERT MENU *_*_*_*_*_*_*_*_*_*_*_
+
+Press 1 to insert at Head
+
+Press 2 to insert at Tail
+
+Press 3 to insert from Specific postion
+
+Press 4 to Exit
+
+
+Enter the insert choice :
+3
+Enter the postion : 6
+Enter the data : 700
+Inserted !!!
+*_*_*_*_* MENU *_*_*_*_*
+
+Enter 1 To Insert
+
+Enter 2 To Delete
+
+Enter 3 To Search
+
+Enter 4 To Display
+
+Enter 5 To Exit
+
+Enter your choice : 4
+
+100=>200=>300=>400=>500=>600=>700=>800
+*_*_*_*_* MENU *_*_*_*_*
+
+Enter 1 To Insert
+
+Enter 2 To Delete
+
+Enter 3 To Search
+
+Enter 4 To Display
+
+Enter 5 To Exit
+
+Enter your choice : 3
+Enter the data you want to search
+500
+Yes, data is present in list
+*_*_*_*_* MENU *_*_*_*_*
+
+Enter 1 To Insert
+
+Enter 2 To Delete
+
+Enter 3 To Search
+
+Enter 4 To Display
+
+Enter 5 To Exit
+
+Enter your choice : 2
+*_*_*_*_* DELETE MENU *_*_*_*_*_*_*_*_*_*
+
+Press 1 to delete at Head
+
+Press 2 to delete at Tail
+
+Press 3 to delete from specific postion
+
+Press 4 to Exit
+
+
+Enter the delete choice :
+2
+Deleted !!!
+*_*_*_*_* MENU *_*_*_*_*
+
+Enter 1 To Insert
+
+Enter 2 To Delete
+
+Enter 3 To Search
+
+Enter 4 To Display
+
+Enter 5 To Exit
+
+Enter your choice : 4
+
+100=>200=>300=>400=>500=>600=>700
+*_*_*_*_* MENU *_*_*_*_*
+
+Enter 1 To Insert
+
+Enter 2 To Delete
+
+Enter 3 To Search
+
+Enter 4 To Display
+
+Enter 5 To Exit
+
+Enter your choice : 2
+*_*_*_*_* DELETE MENU *_*_*_*_*_*_*_*_*_*
+
+Press 1 to delete at Head
+
+Press 2 to delete at Tail
+
+Press 3 to delete from specific postion
+
+Press 4 to Exit
+
+
+Enter the delete choice :
+1
+Deleted !!!
+*_*_*_*_* MENU *_*_*_*_*
+
+Enter 1 To Insert
+
+Enter 2 To Delete
+
+Enter 3 To Search
+
+Enter 4 To Display
+
+Enter 5 To Exit
+
+Enter your choice : 4
+
+200=>300=>400=>500=>600=>700
+*_*_*_*_* MENU *_*_*_*_*
+
+Enter 1 To Insert
+
+Enter 2 To Delete
+
+Enter 3 To Search
+
+Enter 4 To Display
+
+Enter 5 To Exit
+
+Enter your choice : 2
+*_*_*_*_* DELETE MENU *_*_*_*_*_*_*_*_*_*
+
+Press 1 to delete at Head
+
+Press 2 to delete at Tail
+
+Press 3 to delete from specific postion
+
+Press 4 to Exit
+
+
+Enter the delete choice :
+3
+Enter the postion : 3
+Deleted !!!
+*_*_*_*_* MENU *_*_*_*_*
+
+Enter 1 To Insert
+
+Enter 2 To Delete
+
+Enter 3 To Search
+
+Enter 4 To Display
+
+Enter 5 To Exit
+
+Enter your choice : 4
+
+200=>300=>400=>600=>700
+*_*_*_*_* MENU *_*_*_*_*
+
+Enter 1 To Insert
+
+Enter 2 To Delete
+
+Enter 3 To Search
+
+Enter 4 To Display
+
+Enter 5 To Exit
+
+Enter your choice : 1
+*_*_*_*_* INSERT MENU *_*_*_*_*_*_*_*_*_*_*_
+
+Press 1 to insert at Head
+
+Press 2 to insert at Tail
+
+Press 3 to insert from Specific postion
+
+Press 4 to Exit
+
+
+Enter the insert choice :
+100
+Invalid choice !!
+*_*_*_*_* MENU *_*_*_*_*
+
+Enter 1 To Insert
+
+Enter 2 To Delete
+
+Enter 3 To Search
+
+Enter 4 To Display
+
+Enter 5 To Exit
+
+Enter your choice : 4
+
+200=>300=>400=>600=>700
+*_*_*_*_* MENU *_*_*_*_*
+
+Enter 1 To Insert
+
+Enter 2 To Delete
+
+Enter 3 To Search
+
+Enter 4 To Display
+
+Enter 5 To Exit
+
+Enter your choice : 1
+*_*_*_*_* INSERT MENU *_*_*_*_*_*_*_*_*_*_*_
+
+Press 1 to insert at Head
+
+Press 2 to insert at Tail
+
+Press 3 to insert from Specific postion
+
+Press 4 to Exit
+
+
+Enter the insert choice :
+1
+Enter the data : 100
+Inserted !!!
+*_*_*_*_* MENU *_*_*_*_*
+
+Enter 1 To Insert
+
+Enter 2 To Delete
+
+Enter 3 To Search
+
+Enter 4 To Display
+
+Enter 5 To Exit
+
+Enter your choice : 4
+
+100=>200=>300=>400=>600=>700
+*_*_*_*_* MENU *_*_*_*_*
+
+Enter 1 To Insert
+
+Enter 2 To Delete
+
+Enter 3 To Search
+
+Enter 4 To Display
+
+Enter 5 To Exit
+
+Enter your choice : 1
+*_*_*_*_* INSERT MENU *_*_*_*_*_*_*_*_*_*_*_
+
+Press 1 to insert at Head
+
+Press 2 to insert at Tail
+
+Press 3 to insert from Specific postion
+
+Press 4 to Exit
+
+
+Enter the insert choice :
+3
+Enter the postion : 4
+Enter the data : 500
+Inserted !!!
+*_*_*_*_* MENU *_*_*_*_*
+
+Enter 1 To Insert
+
+Enter 2 To Delete
+
+Enter 3 To Search
+
+Enter 4 To Display
+
+Enter 5 To Exit
+
+Enter your choice : 4
+
+100=>200=>300=>400=>500=>600=>700
+*_*_*_*_* MENU *_*_*_*_*
+
+Enter 1 To Insert
+
+Enter 2 To Delete
+
+Enter 3 To Search
+
+Enter 4 To Display
+
+Enter 5 To Exit
+
+Enter your choice : 1
+*_*_*_*_* INSERT MENU *_*_*_*_*_*_*_*_*_*_*_
+
+Press 1 to insert at Head
+
+Press 2 to insert at Tail
+
+Press 3 to insert from Specific postion
+
+Press 4 to Exit
+
+
+Enter the insert choice :
+2
+Enter the data : 800
+Inserted !!!
+*_*_*_*_* MENU *_*_*_*_*
+
+Enter 1 To Insert
+
+Enter 2 To Delete
+
+Enter 3 To Search
+
+Enter 4 To Display
+
+Enter 5 To Exit
+
+Enter your choice : 1
+*_*_*_*_* INSERT MENU *_*_*_*_*_*_*_*_*_*_*_
+
+Press 1 to insert at Head
+
+Press 2 to insert at Tail
+
+Press 3 to insert from Specific postion
+
+Press 4 to Exit
+
+
+Enter the insert choice :
+2
+Enter the data : 900
+Inserted !!!
+*_*_*_*_* MENU *_*_*_*_*
+
+Enter 1 To Insert
+
+Enter 2 To Delete
+
+Enter 3 To Search
+
+Enter 4 To Display
+
+Enter 5 To Exit
+
+Enter your choice : 1
+*_*_*_*_* INSERT MENU *_*_*_*_*_*_*_*_*_*_*_
+
+Press 1 to insert at Head
+
+Press 2 to insert at Tail
+
+Press 3 to insert from Specific postion
+
+Press 4 to Exit
+
+
+Enter the insert choice :
+2
+Enter the data : 1000
+Inserted !!!
+*_*_*_*_* MENU *_*_*_*_*
+
+Enter 1 To Insert
+
+Enter 2 To Delete
+
+Enter 3 To Search
+
+Enter 4 To Display
+
+Enter 5 To Exit
+
+Enter your choice : 4
+
+100=>200=>300=>400=>500=>600=>700=>800=>900=>1000
+*_*_*_*_* MENU *_*_*_*_*
+
+Enter 1 To Insert
+
+Enter 2 To Delete
+
+Enter 3 To Search
+
+Enter 4 To Display
+
+Enter 5 To Exit
+
+Enter your choice : 5
+Thank you Buddy!!!
+
+C:\DSA>
+**/
